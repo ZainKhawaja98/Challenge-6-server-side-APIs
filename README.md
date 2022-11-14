@@ -1,24 +1,20 @@
+https://zainkhawaja98.github.io/Challenge-6-server-side-APIs/
 # Challenge-6-server-side-APIs
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn
+My motivation for creating this website was to become more familiar with how to use server side APIs. I also made specific data using parameters which gave me experiece in working with API documentation. I learned how to make more detailed data requests by passing data from one call to another.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+In order to use the website, type the name of a city in the search bar in order to see the weather forecast for the next 5 days.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/image/screenshot.png)
+![alt text](assets/image/Website.png)
 
 # Credits
 

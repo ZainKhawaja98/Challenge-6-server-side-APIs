@@ -131,4 +131,3 @@ fetchWeather({
 	lon: 10,
 	name: "San Diego"
 })
-
